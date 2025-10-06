@@ -13,3 +13,7 @@ a {
 ol, ul {
     list-style-type: none;
 }
+
+#root{
+    position: relative;
+}
