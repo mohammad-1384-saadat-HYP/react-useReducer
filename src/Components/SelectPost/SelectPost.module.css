@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    padding: 25px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.container_holderIcon {
+    width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.container_holderIcon_icon {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.container_postId {
+    font-weight: bold;
+    font-size: 45px;
+}
